@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "learning mern stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TerryRoberts1995/natours-project.git"
+  },
+  "author": "Terry Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TerryRoberts1995/natours-project/issues"
+  },
+  "homepage": "https://github.com/TerryRoberts1995/natours-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
